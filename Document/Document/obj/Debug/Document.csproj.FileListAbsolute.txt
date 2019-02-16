@@ -1,0 +1,14 @@
+C:\Users\Neeqo\AppData\Local\Temporary Projects\Document\bin\Debug\Document.exe.config
+C:\Users\Neeqo\AppData\Local\Temporary Projects\Document\bin\Debug\Document.exe
+C:\Users\Neeqo\AppData\Local\Temporary Projects\Document\bin\Debug\Document.pdb
+C:\Users\Neeqo\AppData\Local\Temporary Projects\Document\obj\Debug\Document.csprojAssemblyReference.cache
+C:\Users\Neeqo\AppData\Local\Temporary Projects\Document\obj\Debug\Document.csproj.CoreCompileInputs.cache
+C:\Users\Neeqo\AppData\Local\Temporary Projects\Document\obj\Debug\Document.exe
+C:\Users\Neeqo\AppData\Local\Temporary Projects\Document\obj\Debug\Document.pdb
+C:\Users\Neeqo\Desktop\Visual Studio\Document\Document\Document\obj\Debug\Document.csprojAssemblyReference.cache
+C:\Users\Neeqo\Desktop\Visual Studio\Document\Document\Document\obj\Debug\Document.csproj.CoreCompileInputs.cache
+C:\Users\Neeqo\Desktop\Visual Studio\Document\Document\Document\obj\Debug\Document.exe
+C:\Users\Neeqo\Desktop\Visual Studio\Document\Document\Document\obj\Debug\Document.pdb
+C:\Users\Neeqo\Desktop\Visual Studio\Document\Document\Document\bin\Debug\Document.exe.config
+C:\Users\Neeqo\Desktop\Visual Studio\Document\Document\Document\bin\Debug\Document.exe
+C:\Users\Neeqo\Desktop\Visual Studio\Document\Document\Document\bin\Debug\Document.pdb
